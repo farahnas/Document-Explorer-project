@@ -1,12 +1,8 @@
 # Document Explorer 🗂️🔍
 
-![Python Version](https://img.shields.io/badge/python-3.8+-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-[![Open in GitHub Codespaces](https://img.shields.io/badge/Open%20in-Codespaces-blue?logo=github)](https://codespaces.new/yourusername/document-explorer)
-
 An AI-powered document query system that lets you search through your documents using natural language.
-
-
+![App Interface](./images/document1.png)
+![App Interface](./images/document2.png)
 
 ## Features ✨
 
