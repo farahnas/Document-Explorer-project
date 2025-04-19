@@ -1,8 +1,8 @@
 # Document Explorer 🗂️🔍
 
 An AI-powered document query system that lets you search through your documents using natural language.
-![App Interface](./forntend/document1.png)
-![App Interface](./forntend/document2.png)
+![App Interface](./frontend/document1.png)
+![App Interface](./frontend/document2.png)
 
 ## Features ✨
 
