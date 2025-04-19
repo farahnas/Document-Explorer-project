@@ -6,7 +6,7 @@
 
 An AI-powered document query system that lets you search through your documents using natural language.
 
-![App Screenshot](https://via.placeholder.com/800x500?text=Document+Explorer+Screenshot) *(Replace with actual screenshot)*
+
 
 ## Features ✨
 
